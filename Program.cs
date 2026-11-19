@@ -55,12 +55,52 @@
 // Console.WriteLine($"Здравствуйте, {enteredName} из группы {enteredGroup}!");
 
 
+// Console.WriteLine();
+// Console.WriteLine("Ввод чисел: Convert и Parse");
+// Console.Write("Введите ваш год рождения: ");
+// string birthYearInput = Console.ReadLine();
+// int birthYearConvert = Convert.ToInt32(birthYearInput);
+// int birthYearParse = int.Parse(birthYearInput);
+// Console.WriteLine($"Convert.ToInt32: {birthYearConvert}");
+// Console.WriteLine($"int.Parse: {birthYearParse}");
+// Console.WriteLine($"В 2030 году вам будет: {2030 - birthYearConvert} лет");
+
+// Console.WriteLine();
+// Console.WriteLine("Ввод чисел: TryParse");
+// Console.Write("Введите количество прочитанных книг за семестр: ");
+// string booksInput = Console.ReadLine();
+// bool wasSuccessful = int.TryParse(booksInput, out int booksCount);
+// Console.WriteLine($"Удалось преобразовать: {wasSuccessful}");
+// Console.WriteLine($"Значение переменной booksCount: {booksCount}");
+
+
 Console.WriteLine();
-Console.WriteLine("Ввод чисел: Convert и Parse");
-Console.Write("Введите ваш год рождения: ");
-string birthYearInput = Console.ReadLine();
-int birthYearConvert = Convert.ToInt32(birthYearInput);
-int birthYearParse = int.Parse(birthYearInput);
-Console.WriteLine($"Convert.ToInt32: {birthYearConvert}");
-Console.WriteLine($"int.Parse: {birthYearParse}");
-Console.WriteLine($"В 2030 году вам будет: {2030 - birthYearConvert} лет");
+Console.WriteLine("=== Анкета студента ===");
+
+Console.Write("Введите имя и фамилию: ");
+string fullNameInput = Console.ReadLine();
+
+Console.Write("Введите название группы: ");
+string groupInput = Console.ReadLine();
+
+Console.Write("Введите год рождения: ");
+int birthYearInput2 = int.Parse(Console.ReadLine());
+
+Console.Write("Введите средний балл за прошлый семестр: ");
+double gpaInput = double.Parse(Console.ReadLine());
+
+Console.Write("Введите любимую букву алфавита: ");
+char favoriteLetter = Console.ReadLine()[0];
+
+int ageIn2030 = 2030 - birthYearInput2;
+bool goodStudent = gpaInput >= 4.0;
+
+Console.WriteLine();
+Console.WriteLine("=== Сводка ===");
+Console.WriteLine($"Имя и фамилия: {fullNameInput}");
+Console.WriteLine($"Группа: {groupInput}");
+Console.WriteLine($"Год рождения: {birthYearInput2}");
+Console.WriteLine($"Средний балл: {gpaInput}");
+Console.WriteLine($"Любимая буква: {favoriteLetter}");
+Console.WriteLine($"В 2030 году вам будет: {ageIn2030} лет");
+Console.WriteLine($"Средний балл >= 4.0: {goodStudent}");
