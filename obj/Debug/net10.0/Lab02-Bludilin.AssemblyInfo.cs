@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab02-Bludilin")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e3de9bc943b45cb90e57897fb7979943be48f4be")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+48f61b30b1457437d81fb7be9181c55e08587669")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab02-Bludilin")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab02-Bludilin")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
