@@ -1,0 +1,14 @@
+C:\Users\QQ\Documents\Lab02-Bludilin\bin\Debug\net10.0\Lab02-Bludilin.exe
+C:\Users\QQ\Documents\Lab02-Bludilin\bin\Debug\net10.0\Lab02-Bludilin.deps.json
+C:\Users\QQ\Documents\Lab02-Bludilin\bin\Debug\net10.0\Lab02-Bludilin.runtimeconfig.json
+C:\Users\QQ\Documents\Lab02-Bludilin\bin\Debug\net10.0\Lab02-Bludilin.dll
+C:\Users\QQ\Documents\Lab02-Bludilin\bin\Debug\net10.0\Lab02-Bludilin.pdb
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\Lab02-Bludilin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\Lab02-Bludilin.AssemblyInfoInputs.cache
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\Lab02-Bludilin.AssemblyInfo.cs
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\Lab02-Bludilin.csproj.CoreCompileInputs.cache
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\Lab02-Bludilin.dll
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\refint\Lab02-Bludilin.dll
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\Lab02-Bludilin.pdb
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\Lab02-Bludilin.genruntimeconfig.cache
+C:\Users\QQ\Documents\Lab02-Bludilin\obj\Debug\net10.0\ref\Lab02-Bludilin.dll
